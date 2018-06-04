@@ -1,0 +1,3 @@
+[submodule "Plugins/SuperShapes"]
+	path = Plugins/SuperShapes
+	url = https://github.com/ryangadz/SuperShapes.git
