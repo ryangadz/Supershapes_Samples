@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Supershapes : ModuleRules
+public class Supershapes_Samples : ModuleRules
 {
-	public Supershapes(ReadOnlyTargetRules Target) : base(Target)
+	public Supershapes_Samples(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

@@ -5,17 +5,12 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Supershapes",
+			"Name": "Supershapes_Samples",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "SplineTwistCorrect",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3ab1bb3146c34d4098fd2e564f6bd62c"
-		},
 		{
 			"Name": "SuperShapes",
 			"Enabled": true

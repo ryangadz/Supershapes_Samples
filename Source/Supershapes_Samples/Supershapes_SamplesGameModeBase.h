@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "SupershapesGameModeBase.generated.h"
+#include "Supershapes_SamplesGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class SUPERSHAPES_API ASupershapesGameModeBase : public AGameModeBase
+class SUPERSHAPES_SAMPLES_API ASupershapes_SamplesGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
