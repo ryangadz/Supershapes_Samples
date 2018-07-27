@@ -4,13 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "C:\\Program Files\\Epic Games\\UE_4.19"
+			"path": "C:\\Program Files\\Epic Games\\UE_4.20"
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off",
-		"files.associations": {
-			"xlocale": "cpp"
-		}
+		"typescript.tsc.autoDetect": "off"
 	}
 }
