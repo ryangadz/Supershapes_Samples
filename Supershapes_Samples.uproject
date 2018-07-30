@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "SuperShapes",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/650322c33fc540a3b9a576feccba575f"
 		}
 	]
 }
