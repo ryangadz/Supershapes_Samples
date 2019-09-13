@@ -1,13 +1,21 @@
 {
 	"folders": [
 		{
+			"name": "Supershapes_Samples",
 			"path": "."
 		},
 		{
-			"path": "C:\\Program Files\\Epic Games\\UE_4.22"
+			"name": "UE4",
+			"path": "C:\\Program Files\\Epic Games\\UE_4.23"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-vscode.csharp"
+		]
 	}
 }
